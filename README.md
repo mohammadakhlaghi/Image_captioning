@@ -13,11 +13,12 @@ Hyperparameters are set based on the information from the article. The model is 
 ## Results and Model Evaluation
 
 Two models are defined: one with frozen ResNet18 weights and another with newly trained weights. The frozen model outperforms slightly. Evaluation metrics include training and validation loss graphs. The project demonstrates a positive performance, generating meaningful captions for test images.
-
+![Random image from test dataset](1.jpg)
+![Random image from my gallery](2.jpg)
 Feel free to explore the provided Jupyter notebooks for a more detailed examination of the project results. If you have any questions or need clarification, please don't hesitate to reach out.
 
 Happy coding!
-![Alt text](1.jpg)
+
 
 
 
