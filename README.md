@@ -17,7 +17,7 @@ Two models are defined: one with frozen ResNet18 weights and another with newly 
 Feel free to explore the provided Jupyter notebooks for a more detailed examination of the project results. If you have any questions or need clarification, please don't hesitate to reach out.
 
 Happy coding!
-![Alt text](Image_captioning/1.jpg)
+![Alt text](1.jpg)
 
 
 
